@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hassanlatifa98/StudentGradingApplication/Guided-project-foreach-if-array-CSharp-main/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj": {}
+    "/home/hassanlatifa98/C-fundamentals/StudentGradingApplication/Guided-project-foreach-if-array-CSharp-main/Project/Starter/Starter.csproj": {}
   },
   "projects": {
-    "/home/hassanlatifa98/StudentGradingApplication/Guided-project-foreach-if-array-CSharp-main/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj": {
+    "/home/hassanlatifa98/C-fundamentals/StudentGradingApplication/Guided-project-foreach-if-array-CSharp-main/Project/Starter/Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hassanlatifa98/StudentGradingApplication/Guided-project-foreach-if-array-CSharp-main/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+        "projectUniqueName": "/home/hassanlatifa98/C-fundamentals/StudentGradingApplication/Guided-project-foreach-if-array-CSharp-main/Project/Starter/Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "/home/hassanlatifa98/StudentGradingApplication/Guided-project-foreach-if-array-CSharp-main/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+        "projectPath": "/home/hassanlatifa98/C-fundamentals/StudentGradingApplication/Guided-project-foreach-if-array-CSharp-main/Project/Starter/Starter.csproj",
         "packagesPath": "/home/hassanlatifa98/.nuget/packages/",
-        "outputPath": "/home/hassanlatifa98/StudentGradingApplication/Guided-project-foreach-if-array-CSharp-main/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/",
+        "outputPath": "/home/hassanlatifa98/C-fundamentals/StudentGradingApplication/Guided-project-foreach-if-array-CSharp-main/Project/Starter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hassanlatifa98/.nuget/NuGet/NuGet.Config"
